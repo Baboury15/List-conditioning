@@ -13,7 +13,7 @@ const  Style= {
     return (
     <div style={Style} onClick={props.cliked}>
 
-          {props.charactere}   {props.spray}
+          {props.charactere}  
 
     </div>)
 
